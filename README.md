@@ -15,7 +15,7 @@ I enjoy turning ideas into practical software using Python, FastAPI, React, and 
 🧠 Currently improving Data Structures & Algorithms
 💼 Open to Software Developer, Python Developer, AI/ML and Full-Stack opportunities
 🛠️ Tech Stack
-<image src="https://tse4.mm.bing.net/th/id/OIP.eW3N2yqV-7xFT7PjF__4TwHaDe?r=0&rs=1&pid=ImgDetMain&o=7&rm=3">
+<image hight=10  src="https://tse4.mm.bing.net/th/id/OIP.eW3N2yqV-7xFT7PjF__4TwHaDe?r=0&rs=1&pid=ImgDetMain&o=7&rm=3">
 Languages
 
 
